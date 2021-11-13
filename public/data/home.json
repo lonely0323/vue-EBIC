@@ -1,0 +1,418 @@
+{
+  "Carousel": [
+    {
+      "GanmeName": "PUBG",
+      "bgImgUrl": "https://img1.baidu.com/it/u=3771472914,54974121&fm=26&fmt=auto",
+      "icon": "",
+      "announcement": "《绝地求生》(PUBG) 是由韩国Krafton工作室开发的一款战术竞技型射击类沙盒游戏",
+      "Jump": "#"
+    },
+    {
+      "GanmeName": "战地2042",
+      "bgImgUrl": "https://img1.baidu.com/it/u=3336698311,246641170&fm=253&fmt=auto&app=120&f=JPEG?w=889&h=500",
+      "icon": "",
+      "announcement": "《战地风云 2042》是一款由DICE开发、Electronic Arts发行的一款第一人称射击游戏。",
+      "Jump": "#"
+    },
+    {
+      "GanmeName": "Minecraft",
+      "bgImgUrl": "http://pic.87g.com/upload/2017/0920/20170920040744125.jpg",
+      "icon": "",
+      "announcement": "《我的世界》（Minecraft）是由Mojang Studios开发，游戏于2017年8月8日在中国大陆独家运营。",
+      "Jump": "#"
+    }
+  ],
+  "ListIcon": [
+    {
+      "GameName": "风元素",
+      "icon": "...",
+      "type": 0,
+      "Jump": "#"
+    },
+    {
+      "GameName": "水元素",
+      "icon": "...",
+      "type": 5,
+      "Jump": "#"
+    },
+    {
+      "GameName": "冰元素",
+      "icon": "...",
+      "type": 1,
+      "Jump": "#"
+    },
+    {
+      "GameName": "草元素",
+      "icon": "...",
+      "type": 2,
+      "Jump": "#"
+    },
+    {
+      "GameName": "雷元素",
+      "icon": "...",
+      "type": 3,
+      "Jump": "#"
+    },
+    {
+      "GameName": "岩元素",
+      "icon": "...",
+      "type": 4,
+      "Jump": "#"
+    },
+
+    {
+      "GameName": "火元素",
+      "icon": "...",
+      "type": 7,
+      "Jump": "#"
+    }
+  ],
+  "recommend": [
+    {
+      "bgImgUrl": "https://img2.baidu.com/it/u=1234573979,2987179418&fm=26&fmt=auto",
+      "Jump": "http:1223",
+      "text": "《Grand Theft Auto V》",
+      "white": "游戏本体",
+      "price": 98,
+      "Golden": "立即购买!"
+    },
+    {
+      "bgImgUrl": "https://img1.baidu.com/it/u=3074001432,362361908&fm=26&fmt=auto",
+      "Jump": "http:1223",
+      "text": "《Assassin's Creed》",
+      "white": "游戏本体+DLC",
+      "price": 78,
+      "Golden": "立即购买!"
+    },
+    {
+      "bgImgUrl": "https://img0.baidu.com/it/u=3913710702,767557863&fm=26&fmt=auto",
+      "Jump": "http:1223",
+      "text": "《Red Dead Redemption 2》",
+      "white": "游戏本体",
+      "price": 145,
+      "Golden": "立即购买!"
+    },
+    {
+      "bgImgUrl":"https://img1.baidu.com/it/u=1138039379,2471778894&fm=26&fmt=auto",
+      "Jump": "http:1223",
+      "text": "《PUBG》",
+      "white": "游戏本体",
+      "price": 130,
+      "Golden": "立即购买!"
+    },
+    {
+      "bgImgUrl": "https://img0.baidu.com/it/u=2980836107,1564678290&fm=26&fmt=auto",
+      "Jump": "http:1223",
+      "text": "《极限竞速：地平线 5》",
+      "white": "游戏本体",
+      "price": 158,
+      "Golden": "立即购买!"
+    },
+    {
+      "bgImgUrl": "https://img2.baidu.com/it/u=1351013557,529190897&fm=26&fmt=auto",
+      "Jump": "http:1223",
+      "text": "《Terraria》",
+      "white": "游戏本体",
+      "price": 40,
+      "Golden": "立即购买!"
+    },
+    {
+      "bgImgUrl": "https://img2.baidu.com/it/u=1037722165,1952576138&fm=26&fmt=auto",
+      "Jump": "http:1223",
+      "text": "《SEKIRO: Shadows Die Twice》",
+      "white": "游戏本体",
+      "price": 130,
+      "Golden": "立即购买!"
+    },
+    {
+      "bgImgUrl": "https://t15.baidu.com/it/u=715892030,2973618055&fm=224&app=112&f=JPEG?w=480&h=480",
+      "Jump": "http:1223",
+      "text": "《God of War》",
+      "white": "游戏本体",
+      "price": 230,
+      "Golden": "立即购买!"
+    },
+    {
+      "bgImgUrl": "https://img2.baidu.com/it/u=3364331290,3946200138&fm=253&fmt=auto&app=120&f=JPEG?w=600&h=337",
+      "Jump": "http:1223",
+      "text": "《Football Manager 2022》",
+      "white": "游戏本体",
+      "price": 200,
+      "Golden": "立即购买!"
+    },
+    {
+      "bgImgUrl": "https://img1.baidu.com/it/u=2824606004,348947217&fm=26&fmt=auto",
+      "Jump": "http:1223",
+      "text": "《Sid Meier's Civilization VI》",
+      "white": "游戏本体+DLC",
+      "price": 118,
+      "Golden": "立即购买!"
+    }
+  ],
+  "Featured": [
+    {
+      "bgImgUrl": "\thttps://img2.baidu.com/it/u=2840793373,1291870901&fm=26&fmt=auto",
+      "Jump": "http:1223",
+      "text": "《英雄联盟》",
+      "iconType": 1,
+      "white": "MOBA类型游戏",
+      "price": 0,
+      "Golden": "立即购买!"
+    },
+    {
+      "bgImgUrl": "https://img2.baidu.com/it/u=1370686428,3939498967&fm=26&fmt=auto",
+      "Jump": "http:1223",
+      "text": "《穿越火线》",
+      "iconType": 7,
+      "white": "fps类型游戏",
+      "price": 0,
+      "Golden": "立即购买!"
+    },
+    {
+      "bgImgUrl": "https://img2.baidu.com/it/u=1074825433,736163630&fm=26&fmt=auto",
+      "Jump": "http:1223",
+      "text": "《原神》",
+      "iconType": 0,
+      "white": "开放世界冒险游戏",
+      "price": 0,
+      "Golden": "立即购买!"
+    },
+    {
+      "bgImgUrl": "https://img2.baidu.com/it/u=104723515,3087519667&fm=253&fmt=auto&app=138&f=JPEG?w=354&h=500",
+      "Jump": "http:1223",
+      "text": "《堡垒之夜》",
+      "iconType": 2,
+      "white": "第三人称射击游戏",
+      "price": 0,
+      "Golden": "立即购买!"
+    },
+    {
+      "bgImgUrl": "https://img0.baidu.com/it/u=3531954086,840978597&fm=26&fmt=auto",
+      "Jump": "http:1223",
+      "text": "战争前线",
+      "iconType": 2,
+      "white": "第一人称射击游戏",
+      "price": 0,
+      "Golden": "立即购买!"
+    },
+    {
+      "bgImgUrl": "https://img0.baidu.com/it/u=414035058,989636740&fm=26&fmt=auto",
+      "Jump": "http:1223",
+      "text": "《地下城与勇士》",
+      "iconType": 0,
+      "white": "角色扮演游戏",
+      "price": 0,
+      "Golden": "立即购买!"
+    },
+    {
+      "bgImgUrl": "https://img0.baidu.com/it/u=145665477,3130386786&fm=26&fmt=auto",
+      "Jump": "http:1223",
+      "text": "《QQ飞车》",
+      "iconType": 4,
+      "white": "竞速游戏",
+      "price": 0,
+      "Golden": "立即购买!"
+    },
+    {
+      "bgImgUrl": "https://img0.baidu.com/it/u=3560970680,3933205349&fm=26&fmt=auto",
+      "Jump": "http:1223",
+      "text": "《魔兽世界》",
+      "iconType": 2,
+      "Golden": "立即购买!",
+      "white": "即时策略游戏",
+      "price": 0
+    },
+    {
+      "bgImgUrl": "https://img0.baidu.com/it/u=1948379130,1301774905&fm=26&fmt=auto",
+      "Jump": "http:1223",
+      "text": "《逆战》",
+      "iconType": 2,
+      "Golden": "立即购买!",
+      "white": "第一人称射击",
+      "price": 0
+    },
+    {
+      "bgImgUrl": "https://img0.baidu.com/it/u=1532897211,1623978832&fm=26&fmt=auto",
+      "Jump": "http:1223",
+      "text": "《刀塔传奇》",
+      "iconType": 2,
+      "Golden": "立即购买!",
+      "white": "动作卡牌游戏",
+      "price": 0
+    }
+  ],
+  "Now": [
+    {
+      "bgImgUrl": "https://img1.baidu.com/it/u=2255951359,100833280&fm=253&fmt=auto&app=120&f=JPEG?w=192&h=192",
+      "Jump": "http:1223",
+      "text": "《Minecraft》",
+      "Golden": "策略经营/开放世界!",
+      "white": "游戏世界",
+      "price": 119
+    },
+    {
+      "bgImgUrl": "https://img2.baidu.com/it/u=971109029,1798521778&fm=26&fmt=auto",
+      "Jump": "http:1223",
+      "text": "《Plants vs. Zombies》",
+      "Golden": "立即购买!",
+      "white": "益智/脑力",
+      "price": 15
+    },
+    {
+      "bgImgUrl": "https://img0.baidu.com/it/u=3966578407,2493796433&fm=26&fmt=auto",
+      "Jump": "http:1223",
+      "text": "《Terraria》",
+      "Golden": "立即购买!",
+      "white": "独立游戏",
+      "price": 40
+    },
+    {
+      "bgImgUrl": "https://img1.baidu.com/it/u=1059753790,3378744687&fm=26&fmt=auto",
+      "Jump": "http:1223",
+      "text": "《Call Of Duty》",
+      "Golden": "立即购买!",
+      "white": "射击/枪械",
+      "price": 75
+    },
+    {
+      "bgImgUrl": "https://img2.baidu.com/it/u=2159570545,2152682347&fm=253&fmt=auto&app=138&f=JPEG?w=268&h=402",
+      "Jump": "http:1223",
+      "text": "《Battlefield 2042》",
+      "Golden": "立即购买!",
+      "white": "射击/其它",
+      "price": 189
+    },
+    {
+      "bgImgUrl": "https://img1.baidu.com/it/u=2934808990,3921867327&fm=26&fmt=auto",
+      "Jump": "http:1223",
+      "text": "《nDon’t Starve》",
+      "Golden": "立即购买!!",
+      "white": "策略经营/养成",
+      "price": 35
+    },
+    {
+      "bgImgUrl": "https://img1.baidu.com/it/u=3783392950,2984014307&fm=26&fmt=auto",
+      "Jump": "http:1223",
+      "text": "《The Witcher 3: Wild Hunt》",
+      "Golden": "立即购买!",
+      "white": "角色扮演/ARPG",
+      "price": 123
+    },
+    {
+      "bgImgUrl": "https://img2.baidu.com/it/u=1050193678,3499141756&fm=26&fmt=auto",
+      "Jump": "http:1223",
+      "text": "《Red Dead Redemption Ⅱ》",
+      "Golden": "立即购买!",
+      "white": "动作/冒险",
+      "price": 145
+    },
+    {
+      "bgImgUrl": "https://img1.baidu.com/it/u=2723435153,3002440419&fm=26&fmt=auto",
+      "Jump": "http:1223",
+      "text": "Monster Hunter",
+      "Golden": "立即购买!",
+      "white": "角色扮演/ARPG",
+      "price": 205
+    },
+    {
+      "bgImgUrl": "https://img0.baidu.com/it/u=1686402873,3019552210&fm=26&fmt=auto",
+      "Jump": "http:1223",
+      "text": "《Left 4 Dead 2》",
+      "Golden": "立即购买!",
+      "white": "射击/枪械",
+      "price": 55
+    }
+  ],
+  "Popular": [
+    {
+      "bgImgUrl": "\thttps://img0.baidu.com/it/u=389919018,4231547122&fm=253&fmt=auto&app=138&f=JPEG?w=890&h=500",
+      "Jump": "http:1223",
+      "text": "《侏罗纪世界：进化 2》",
+      "iconType": -1,
+      "Golden": "立即购买!",
+      "white": "模拟/恐龙/建造/策略",
+      "price": 163
+    },
+    {
+      "bgImgUrl": "\thttps://img0.baidu.com/it/u=3926064953,785565081&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=282",
+      "Jump": "http:1223",
+      "text": "《Barotrauma》",
+      "Golden": "立即购买!",
+      "white": "多人/生存/合作/潜水艇/科幻/2D",
+      "price": 89
+    },
+    {
+      "bgImgUrl": "\thttps://img1.baidu.com/it/u=3670319213,1141486018&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500",
+      "Jump": "http:1223",
+      "text": "《NBA 2K22》",
+      "Golden": "立即购买!",
+      "white": "体育/篮球/模拟/电竞/3D/多人",
+      "price": 199
+    },
+    {
+      "bgImgUrl": "https://img2.baidu.com/it/u=518891638,3435718619&fm=26&fmt=auto",
+      "Jump": "http:1223",
+      "text": "《糖豆人：终极淘汰赛》",
+      "iconType": 2,
+      "Golden": "立即购买!",
+      "white": "多人/大逃杀/社交聚会游戏/平台游戏",
+      "price": 30
+    },
+    {
+      "bgImgUrl": "https://img1.baidu.com/it/u=162239512,3792519499&fm=26&fmt=auto",
+      "Jump": "http:1223",
+      "text": "《theHunter: Call of the Wild™》",
+      "Golden": "立即购买!",
+      "white": "狩猎/开放世界/多人/模拟/第一人称",
+      "price": 70
+    },
+    {
+      "bgImgUrl": "https://img1.baidu.com/it/u=2889907226,1642597168&fm=26&fmt=auto ",
+      "Jump": "http:1223",
+      "text": "《永劫无间》",
+      "Golden": "立即购买!",
+      "white": "大逃杀/多人/武术/生存/砍杀",
+      "price": 98
+    },
+    {
+      "bgImgUrl": "\thttps://img0.baidu.com/it/u=4086261159,2393990723&fm=26&fmt=auto",
+      "Jump": "http:1223",
+      "text": "《Grounded》",
+      "Golden": "立即购买!",
+      "white": "生存/多人/基础建设/制作/冒险/合作",
+      "price": 90
+    },
+    {
+      "bgImgUrl": "\thttps://img2.baidu.com/it/u=1113279576,289346733&fm=26&fmt=auto",
+      "Jump": "http:1223",
+      "text": "《DayZ》",
+      "Golden": "立即购买!",
+      "white": "生存/僵尸/多人/开放世界/动作/射击",
+      "price": 198
+    },
+    {
+      "bgImgUrl": "\thttps://img2.baidu.com/it/u=3126604208,3743626067&fm=26&fmt=auto",
+      "Jump": "http:1223",
+      "text": "《Europa Universalis IV》",
+      "Golden": "立即购买!",
+      "white": "大战略/历史/模拟/经济/军事/架空历史",
+      "price": 78
+    },
+    {
+      "bgImgUrl": "https://img2.baidu.com/it/u=3083174404,90955313&fm=15&fmt=auto",
+      "Jump": "http:1223",
+      "text": "《Crusader Kings III》",
+      "Golden": "立即购买!",
+      "white": "角色扮演/策略/模拟",
+      "price": 90
+    }
+  ],
+  "Logo": "https://www.battlenet.com.cn/login/static/images/toolkit/defaults/logos/blizzard/blizzard-default.1C4OH.png",
+  "header": [
+    {
+      "size": 4,
+      "type": 1,
+      "text": "EBIC昵称修改服务"
+    }
+  ]
+}

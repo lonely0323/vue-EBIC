@@ -1,0 +1,50 @@
+{
+  "MSSJ": {
+    "bg": "//product.cnc.blzstatic.cn//fae/865db2b769bfbbaadb223a153c242bd0-WoW_Classic_Ragnaros_prod_mobile_bg_TS01.jpg",
+    "icon": "//product.cnc.blzstatic.cn//f87/f07df7142c9ec15de82837176b2bb7c9-battle-for-azeroth-cn-clipped.png",
+    "tab": {
+      "icon": "//shopbnet.cnc.blzstatic.cn/static/4.26.6/images/family-icons/world-of-warcraft.svg",
+      "white": "《魔兽世界®》: 游戏时间",
+      "text": "魔兽世界®: 游戏时间",
+      "ary": [
+        {
+          "text": "180天游戏时间&气鳞焚化者&熊猫宝宝",
+          "price": "450",
+          "discount": 0.8
+        },
+        {
+          "text": "90天",
+          "price": "225",
+          "discount": 0.88
+        },
+        {
+          "text": "小小英雄",
+          "price": "75",
+          "discount": 1
+        }
+      ]
+    },
+    "btList": [
+      "欢迎来到EBIC游戏商城，这里给你准备了大量的免费游戏，我们开始的第一天就是以免费为主题，谢谢大家关心！",
+      "Welcome to EBIC game mall, where we have prepared a large number of free games for you. Our first day is with the theme of free. Thank you for your concern!"
+    ],
+    "rightList": [
+      "游戏时间、皮肤、虚拟币合集将于2024年8月11日上架。合集下架后，汽鳞焚化者坐骑将在商城继续出售。",
+      "皮肤会陆续上线，请各位不要着急。 ",
+      "《英雄联盟》配置要求",
+      "在《英雄联盟》的服务器选择界面中，若选择负载标注为\"满\"的服务器，则需在队列中等待较长时间方可登录游戏。为了获得更佳的体验，请选择服务器负载标注为\"低\"或\"中\"的服务器，作为你在排队中显示的情况。",
+      "配置要求",
+      "商品详情"
+    ],
+    "gameList": [
+      {
+        "bt": "《英雄联盟》",
+        "game": {
+          "img": "//product.cnc.blzstatic.cn//ff3/dc8e6dd924aef7259ea1d6f150d739e4-Product_Feature_PET_Panda_Cub_TS01.jpg",
+          "textBt": "全球上线",
+          "text": "在活动期间购买180天游戏时间，即可在《英雄联盟》中获赠经典皮肤，并且在《英雄联盟》中获赠新英雄的信标。完成购买后，登录《英雄联盟》服务器，从界面陆续登录十五天·那里接受特别任务“你的奖励到了！”，即可兑换云顶之奕云盘一张。该任务接受后可立即完成，并获得--《小小英雄蛋一枚》。"
+        }
+      }
+    ]
+  }
+}
